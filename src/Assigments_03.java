@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignments_03 {
+public class Assigments_03 {
     //3- Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
